@@ -1,6 +1,6 @@
 package base;
 
-public class Solution {
+public class Solution1 {
     private class Node{     //结点
         public int value;
         public Node next;
